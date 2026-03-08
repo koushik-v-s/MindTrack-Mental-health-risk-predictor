@@ -38,16 +38,16 @@
       <td align="center"><b>Local Feature Impact</b></td>
     </tr>
     <tr>
-      <td><img src="top5_vs_stress.png" width="400" alt="Top 5 vs Stress"></td>
-      <td><img src="local_final.png" width="400" alt="Local Feature Impact"></td>
+      <td><img src="MindTrack/top5_vs_stress.png" width="400" alt="Top 5 vs Stress"></td>
+      <td><img src="MindTrack/local_final.png" width="400" alt="Local Feature Impact"></td>
     </tr>
     <tr>
       <td align="center"><b>Global Feature Importance</b></td>
       <td align="center"><b>Global Signed Importance</b></td>
     </tr>
     <tr>
-      <td><img src="global_importance.png" width="400" alt="Global Importance"></td>
-      <td><img src="global_signed.png" width="400" alt="Global Signed"></td>
+      <td><img src="MindTrack/global_importance.png" width="400" alt="Global Importance"></td>
+      <td><img src="MindTrack/global_signed.png" width="400" alt="Global Signed"></td>
     </tr>
   </table>
 </div>
