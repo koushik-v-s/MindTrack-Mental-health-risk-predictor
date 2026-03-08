@@ -1,0 +1,282 @@
+[
+  {
+    "date": "2025-11-01T18:59:16.138292",
+    "risk": "High",
+    "proba": 0.72237195080614,
+    "top": [
+      [
+        "sleep_quality",
+        0.21631574630737305
+      ],
+      [
+        "sleep_efficiency",
+        0.19701144099235535
+      ],
+      [
+        "interaction_feature",
+        0.1089651808142662
+      ],
+      [
+        "stress_level",
+        0.08873368799686432
+      ],
+      [
+        "family_history",
+        0.08472194522619247
+      ]
+    ],
+    "model": "Ensemble (LR+RF+XGB)"
+  },
+  {
+    "date": "2025-11-02T18:59:16.138292",
+    "risk": "Moderate",
+    "proba": 0.7772237195080614,
+    "top": [
+      [
+        "sleep_quality",
+        0.21631574630737305
+      ],
+      [
+        "sleep_efficiency",
+        0.19701144099235535
+      ],
+      [
+        "interaction_feature",
+        0.1089651808142662
+      ],
+      [
+        "stress_level",
+        0.08873368799686432
+      ],
+      [
+        "family_history",
+        0.08472194522619247
+      ]
+    ],
+    "model": "Ensemble (LR+RF+XGB)"
+  },
+  {
+    "date": "2025-11-03T18:59:16.138292",
+    "risk": "High",
+    "proba": 0.7972237195080614,
+    "top": [
+      [
+        "sleep_quality",
+        0.21631574630737305
+      ],
+      [
+        "sleep_efficiency",
+        0.19701144099235535
+      ],
+      [
+        "interaction_feature",
+        0.1089651808142662
+      ],
+      [
+        "stress_level",
+        0.08873368799686432
+      ],
+      [
+        "family_history",
+        0.08472194522619247
+      ]
+    ],
+    "model": "Ensemble (LR+RF+XGB)"
+  },
+  {
+    "date": "2025-11-04T18:59:16.138292",
+    "risk": "Low",
+    "proba": 0.7972237195080614,
+    "top": [
+      [
+        "sleep_quality",
+        0.21631574630737305
+      ],
+      [
+        "sleep_efficiency",
+        0.19701144099235535
+      ],
+      [
+        "interaction_feature",
+        0.1089651808142662
+      ],
+      [
+        "stress_level",
+        0.08873368799686432
+      ],
+      [
+        "family_history",
+        0.08472194522619247
+      ]
+    ],
+    "model": "Ensemble (LR+RF+XGB)"
+  },
+  {
+    "date": "2025-11-04T19:00:17.388689",
+    "risk": "Moderate",
+    "proba": 0.5680463870703245,
+    "top": [
+      [
+        "stress_level",
+        0.5788644552230835
+      ],
+      [
+        "sleep_quality",
+        0.26003527641296387
+      ],
+      [
+        "sleep_efficiency",
+        0.13410937786102295
+      ],
+      [
+        "tech_exposure",
+        -0.09240635484457016
+      ],
+      [
+        "trauma_history",
+        0.07960724830627441
+      ]
+    ],
+    "model": "Ensemble (LR+RF+XGB)"
+  },
+  {
+    "date": "2025-11-04T19:29:03.218504",
+    "risk": "Low",
+    "proba": 0.7972237195080614,
+    "top": [
+      [
+        "stress_level",
+        0.3447393476963043
+      ],
+      [
+        "interaction_feature",
+        0.14243128895759583
+      ],
+      [
+        "sleep_quality",
+        0.13209614157676697
+      ],
+      [
+        "family_history",
+        0.08472194522619247
+      ],
+      [
+        "relationship_Single_True",
+        0.015730952844023705
+      ]
+    ],
+    "model": "Ensemble (LR+RF+XGB)"
+  },
+  {
+    "date": "2025-11-05T11:35:08.474172",
+    "risk": "Moderate",
+    "proba": 0.6826361032377127,
+    "top": [
+      [
+        "stress_level",
+        0.32116010785102844
+      ],
+      [
+        "sleep_efficiency",
+        -0.14796212315559387
+      ],
+      [
+        "housing_Rented_True",
+        -0.11539345979690552
+      ],
+      [
+        "social_interaction_score",
+        0.11158131062984467
+      ],
+      [
+        "sleep_medication",
+        -0.10746645927429199
+      ]
+    ],
+    "model": "Ensemble (LR+RF+XGB)"
+  },
+  {
+    "date": "2025-11-05T13:44:30.234616",
+    "risk": "Low",
+    "proba": 0.7972237195080614,
+    "top": [
+      [
+        "stress_level",
+        0.24881954491138458
+      ],
+      [
+        "sleep_efficiency",
+        0.20772023499011993
+      ],
+      [
+        "family_history",
+        0.16944389045238495
+      ],
+      [
+        "interaction_feature",
+        0.12580430507659912
+      ],
+      [
+        "sleep_quality",
+        0.125645250082016
+      ]
+    ],
+    "model": "Ensemble (LR+RF+XGB)"
+  },
+  {
+    "date": "2025-11-10T19:42:59.385630",
+    "risk": "Moderate",
+    "proba": 0.8515995498051271,
+    "top": [
+      [
+        "stress_level",
+        0.555948793888092
+      ],
+      [
+        "sleep_efficiency",
+        0.10298146307468414
+      ],
+      [
+        "self_esteem",
+        0.03705890104174614
+      ],
+      [
+        "anxiety_attacks",
+        0.03430452197790146
+      ],
+      [
+        "perceived_stigma",
+        0.03308238834142685
+      ]
+    ],
+    "model": "Ensemble (LR+RF+XGB)"
+  },
+  {
+    "date": "2025-11-10T19:47:12.172427",
+    "risk": "Low",
+    "proba": 0.7972237195080614,
+    "top": [
+      [
+        "sleep_efficiency",
+        0.22977237403392792
+      ],
+      [
+        "sleep_quality",
+        0.1924244910478592
+      ],
+      [
+        "stress_level",
+        0.16523489356040955
+      ],
+      [
+        "interaction_feature",
+        0.14243128895759583
+      ],
+      [
+        "family_history",
+        0.08472194522619247
+      ]
+    ],
+    "model": "Ensemble (LR+RF+XGB)"
+  }
+]
